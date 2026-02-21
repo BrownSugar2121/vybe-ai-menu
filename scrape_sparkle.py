@@ -20,10 +20,10 @@ HEADERS = {
     "Connection": "keep-alive"
 }
 
+scraper = cloudscraper.create_scraper()
 
 def get_product_links(category_url):
-    scraper = cloudscraper.create_scraper()
-res = scraper.get(category_url, headers=HEADERS)
+    res = scraper.get(category_url, headers=HEADERS)
     soup = BeautifulSoup(res.text, "html.parser")
     links = set()
 
@@ -34,16 +34,13 @@ res = scraper.get(category_url, headers=HEADERS)
     return list(links)
 
 def scrape_product(url):
-    scraper = cloudscraper.create_scraper()
-res = scraper.get(url, headers=HEADERS)
+    res = scraper.get(url, headers=HEADERS)
     soup = BeautifulSoup(res.text, "html.parser")
     text = soup.get_text()
 
-    # More reliable product name extraction
     meta_title = soup.find("meta", property="og:title")
     name = meta_title["content"].strip() if meta_title else None
 
-    # Clean name (remove site name if present)
     if name and " - Sparkle Cannabis" in name:
         name = name.split(" - ")[0]
 
@@ -51,16 +48,16 @@ res = scraper.get(url, headers=HEADERS)
     thc_match = re.search(r"THC:\s*[0-9.\- ]+%", text)
     cbd_match = re.search(r"CBD:\s*[0-9.\- ]+%", text)
 
+    in_stock = "Out of stock" not in text and "Sold out" not in text
+
     return {
-    "name": name,
-    "price": price_match.group() if price_match else None,
-    "thc": thc_match.group() if thc_match else None,
-    "cbd": cbd_match.group() if cbd_match else None,
-    "in_stock": in_stock,
-    "url": url
-}
-
-
+        "name": name,
+        "price": price_match.group() if price_match else None,
+        "thc": thc_match.group() if thc_match else None,
+        "cbd": cbd_match.group() if cbd_match else None,
+        "in_stock": in_stock,
+        "url": url
+    }
 
 all_products = []
 
