@@ -1,1 +1,642 @@
-[]
+[
+  {
+    "name": "GMO Cookies 3.5g Dried Flower",
+    "price": "$21.49",
+    "thc": "THC: 24.0 - 31.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/spinach-246736/indica-flower/gmo-cookies-35g-dried-flower-2071457/"
+  },
+  {
+    "name": "Blueberry Resin Infused Milled Flower 2g Resin - Sparkle ...",
+    "price": "$28.49",
+    "thc": "THC: 38.0 - 44.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/dab-bods-246716/hybrid-flower/blueberry-resin-infused-milled-flower-2g-resin-2070349/"
+  },
+  {
+    "name": "GMO Cookies 7g Dried Flower",
+    "price": "$38.99",
+    "thc": "THC: 22.0 - 32.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/spinach-246736/indica-flower/gmo-cookies-7g-dried-flower-2072226/"
+  },
+  {
+    "name": "Animal Face 3.5g Dried Flower",
+    "price": "$39.99",
+    "thc": "THC: 29.3%",
+    "cbd": "CBD: 0.07%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/carmel-246735/sativa-flower/animal-face-35g-dried-flower-2071868/"
+  },
+  {
+    "name": "Pink Kush 28g Dried Flower",
+    "price": "$123.99",
+    "thc": "THC: 21.2%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pure-sunfarms-246700/indica-flower/pink-kush-28g-dried-flower-2070649/"
+  },
+  {
+    "name": "Cherry Bomb 3.5g Dried Flower",
+    "price": "$22.49",
+    "thc": "THC: 22.0 - 28.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/jonny-chronic-246659/sativa-flower/cherry-bomb-35g-dried-flower-2071762/"
+  },
+  {
+    "name": "Kush Cookies 3.5g Dried Flower",
+    "price": "$20.99",
+    "thc": "THC: 27.7%",
+    "cbd": "CBD: 0.03%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/3saints-246777/indica-flower/kush-cookies-35g-dried-flower-2072093/"
+  },
+  {
+    "name": "Cuban Linx 3.5g Dried Flower",
+    "price": "$27.99",
+    "thc": "THC: 23.0 - 29.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/tribal-246703/sativa-flower/cuban-linx-35g-dried-flower-2071562/"
+  },
+  {
+    "name": "Rainbow Driver Craft Flower 3.5g Dried Flower - Sparkle C...",
+    "price": "$37.99",
+    "thc": "THC: 27.0 - 33.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/woody-nelson-246691/hybrid-flower/rainbow-driver-craft-flower-35g-dried-flower-2071265/"
+  },
+  {
+    "name": "Amsterdam Sativa 28g Dried Flower",
+    "price": "$119.99",
+    "thc": "THC: 24.0 - 31.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/highly-dutch-organic-246939/sativa-flower/amsterdam-sativa-28g-dried-flower-2071465/"
+  },
+  {
+    "name": "Pink Kush 3.5g Dried Flower",
+    "price": "$22.79",
+    "thc": "THC: 19.0 - 25.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pure-sunfarms-246700/indica-flower/pink-kush-35g-dried-flower-2072243/"
+  },
+  {
+    "name": "Rooster Call 3.5g Dried Flower",
+    "price": "$18.99",
+    "thc": "THC: 28.78%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/catch-me-outside-246897/sativa-flower/rooster-call-35g-dried-flower-2071295/"
+  },
+  {
+    "name": "Animal Rntz 3.5g Dried Flower",
+    "price": "$23.49",
+    "thc": "THC: 30.0 - 37.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/redecan-246686/indica-flower/animal-rntz-35g-dried-flower-2070646/"
+  },
+  {
+    "name": "Jean Guy 3.5g",
+    "price": "$17.99",
+    "thc": "THC: 18.0 - 25.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/good-supply-246678/sativa-flower/jean-guy-35g-2071123/"
+  },
+  {
+    "name": "Wedding Cake 3.5g Dried Flower",
+    "price": "$21.49",
+    "thc": "THC: 20.0 - 26.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/spinach-246736/hybrid-flower/wedding-cake-35g-dried-flower-2071757/"
+  },
+  {
+    "name": "Acapulco Gold 3.5g Dried Flower",
+    "price": "$22.49",
+    "thc": "THC: 24.0 - 30.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/jonny-chronic-246659/sativa-flower/acapulco-gold-35g-dried-flower-2070677/"
+  },
+  {
+    "name": "Sweet Berry Kush 3.5g Dried Flower",
+    "price": "$17.99",
+    "thc": "THC: 20.0 - 30.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/good-supply-246678/indica-flower/sweet-berry-kush-35g-dried-flower-2072297/"
+  },
+  {
+    "name": "Tropic Thunder 7g",
+    "price": "$29.99",
+    "thc": "THC: 18.0 - 24.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/shred-246658/hybrid-milled/tropic-thunder-7g-2070716/"
+  },
+  {
+    "name": "Exotic Gas 3.5g Dried Flower",
+    "price": "$28.99",
+    "thc": "THC: 22.0 - 31.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/the-loud-plug-246689/indica-flower/exotic-gas-35g-dried-flower-2072271/"
+  },
+  {
+    "name": "Organic Comatose 3.5g Dried Flower",
+    "price": "$31.99",
+    "thc": "THC: 22.0 - 28.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/1964-246894/indica-flower/organic-comatose-35g-dried-flower-2070670/"
+  },
+  {
+    "name": "White Freeze All-In-One Vape 0.95g Disposable Pens - Spar...",
+    "price": "$38.99",
+    "thc": "THC: 87.0 - 93.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/back-forty-246650/sativa-disposable-vapes/white-freeze-all-in-one-vape-095g-disposable-pens-3334097/"
+  },
+  {
+    "name": "Blue Dream Live Resin 510 Thread Cartridge 1g 510 Thread ...",
+    "price": "$42.99",
+    "thc": "THC: 74.0 - 80.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/1964-246894/sativa-vapes/blue-dream-live-resin-510-thread-cartridge-1g-510-thread-cartridges-3163836/"
+  },
+  {
+    "name": "3:2:1 K.O. Vape - Blue Widow 510 Thread Cartridge 1g 510 ...",
+    "price": "$26.99",
+    "thc": "THC: 12.0 - 18.0%",
+    "cbd": "CBD: 44.0 - 44.0%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/ko-by-nightnight-406914/hybrid-vapes/321-ko-vape-blue-widow-510-thread-cartridge-1g-510-thread-cartridges-4132590/"
+  },
+  {
+    "name": "Cheeky Cherry NSFW Liquid Diamond Disposable Vape 1g Disp...",
+    "price": "$40.99",
+    "thc": "THC: 90.0 - 96.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/adults-only-246754/sativa-disposable-vapes/cheeky-cherry-nsfw-liquid-diamond-disposable-vape-1g-disposable-pens-4587149/"
+  },
+  {
+    "name": "Poppin' Peach 510 Thread Cartridge 1g 510 Thread Cartridg...",
+    "price": "$27.99",
+    "thc": "THC: 85.0 - 91.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/platinum-336080/sativa-vapes/poppin-peach-510-thread-cartridge-1g-510-thread-cartridges-4450744/"
+  },
+  {
+    "name": "Purple Stuff Single-Use Indica Disposable Pen 0.5g Dispos...",
+    "price": "$28.49",
+    "thc": "THC: 80.0 - 86.0%",
+    "cbd": "CBD: 10.0 - 20.0%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/community-246675/indica-disposable-vapes/purple-stuff-single-use-indica-disposable-pen-05g-disposable-pens-2070430/"
+  },
+  {
+    "name": "High Potency 92+ 510 Cartridge Macchiato Gold 0.95g 510 T...",
+    "price": "$29.99",
+    "thc": "THC: 90.0 - 96.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/jays-377948/hybrid-vapes/high-potency-92-510-cartridge-macchiato-gold-095g-510-thread-cartridges-3857144/"
+  },
+  {
+    "name": "BLU 1g Disposable Pens",
+    "price": "$35.99",
+    "thc": "THC: 90.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/platinum-vape-246845/indica-disposable-vapes/blu-1g-disposable-pens-2070740/"
+  },
+  {
+    "name": "Fruity OG 510 Thread Cartridge 1g 510 Thread Cartridges -...",
+    "price": "$28.99",
+    "thc": "THC: 85.0 - 91.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/platinum-336080/hybrid-vapes/fruity-og-510-thread-cartridge-1g-510-thread-cartridges-4494679/"
+  },
+  {
+    "name": "ZKTLZ Pure Live Resin All in One Box Cart 1g Disposable P...",
+    "price": "$36.99",
+    "thc": "THC: 75.6%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/vortex-246648/sativa-disposable-vapes/zktlz-pure-live-resin-all-in-one-box-cart-1g-disposable-pens-3376925/"
+  },
+  {
+    "name": "Ninja Fruit 510 Thread Cartridge 1g 510 Thread Cartridges...",
+    "price": "$37.99",
+    "thc": "THC: 86.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/ness-246713/indica-vapes/ninja-fruit-510-thread-cartridge-1g-510-thread-cartridges-2072378/"
+  },
+  {
+    "name": "Baja Breeze Liquid Diamonds 510 Thread Cartridge 1g 510 T...",
+    "price": "$32.99",
+    "thc": "THC: 87.0 - 93.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/sticky-greens-246831/sativa-vapes/baja-breeze-liquid-diamonds-510-thread-cartridge-1g-510-thread-cartridges-4160195/"
+  },
+  {
+    "name": "Acapulco Gold 510 Thread Cartridge 1g 510 Thread Cartridg...",
+    "price": "$28.99",
+    "thc": "THC: 88.0 - 94.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/jonny-chronic-246659/sativa-vapes/acapulco-gold-510-thread-cartridge-1g-510-thread-cartridges-2072769/"
+  },
+  {
+    "name": "Twisted Tropics 510 Thread Cartridge 1g 510 Thread Cartri...",
+    "price": "$27.99",
+    "thc": "THC: 85.0 - 91.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/platinum-336080/sativa-vapes/twisted-tropics-510-thread-cartridge-1g-510-thread-cartridges-4450750/"
+  },
+  {
+    "name": "Cuban Linx Live Resin 510 Thread Cartridge 1g 510 Thread ...",
+    "price": "$44.99",
+    "thc": "THC: 72.0 - 78.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/tribal-246703/sativa-vapes/cuban-linx-live-resin-510-thread-cartridge-1g-510-thread-cartridges-2072324/"
+  },
+  {
+    "name": "G Mint Live Resin 510 Thread Cartridge 1g 510 Thread Cart...",
+    "price": "$44.99",
+    "thc": "THC: 76.0 - 82.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/tribal-246703/indica-vapes/g-mint-live-resin-510-thread-cartridge-1g-510-thread-cartridges-2070908/"
+  },
+  {
+    "name": "Comatose Live Resin 510 Thread Cartridge 1g 510 Thread Ca...",
+    "price": "$42.99",
+    "thc": "THC: 75.7%",
+    "cbd": "CBD: 1.55%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/1964-246894/indica-vapes/comatose-live-resin-510-thread-cartridge-1g-510-thread-cartridges-3231239/"
+  },
+  {
+    "name": "Indica Blackberry Cream Disposable Pen 0.3g Disposable Pe...",
+    "price": "$19.98",
+    "thc": "THC: 80.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/foray-246814/indica-disposable-vapes/indica-blackberry-cream-disposable-pen-03g-disposable-pens-2070632/"
+  },
+  {
+    "name": "Single-Use Sativa Disposable Pen 0.5g Disposable Pens - S...",
+    "price": "$28.49",
+    "thc": "THC: 80.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/community-246675/sativa-disposable-vapes/single-use-sativa-disposable-pen-05g-disposable-pens-2072027/"
+  },
+  {
+    "name": "Guava Haze 510 Thread Cartridge 1g 510 Thread Cartridges ...",
+    "price": "$28.99",
+    "thc": "THC: 85.0 - 91.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/platinum-336080/sativa-vapes/guava-haze-510-thread-cartridge-1g-510-thread-cartridges-3142340/"
+  },
+  {
+    "name": "Kush Cookies Pre-Roll 1x0.5g Pre-Rolls",
+    "price": "$4.79",
+    "thc": "THC: 30.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/3saints-246777/indica-pre-rolls/kush-cookies-pre-roll-1x05g-pre-rolls-2070770/"
+  },
+  {
+    "name": "Animal Face Pre-Roll.5g 3-Pack",
+    "price": "$19.98",
+    "thc": "THC: 22.0 - 28.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/carmel-246735/sativa-pre-rolls/animal-face-pre-roll5g-3-pack-2070605/"
+  },
+  {
+    "name": "Wedding Pie Pre-Roll 10x0.35g Pre-Rolls - Sparkle Cannabi...",
+    "price": "$20.49",
+    "thc": "THC: 17.0 - 23.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/back-forty-246650/indica-pre-rolls/wedding-pie-pre-roll-10x035g-pre-rolls-2071155/"
+  },
+  {
+    "name": "Root Beer Float Pre-Rolls 3x0.5g Pre-Rolls - Sparkle Cann...",
+    "price": "$18.99",
+    "thc": "THC: 25.0 - 31.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/bold-246853/indica-pre-rolls/root-beer-float-pre-rolls-3x05g-pre-rolls-2072266/"
+  },
+  {
+    "name": "CBD Runtz Pre-Roll 5x0.6g Pre-Rolls",
+    "price": "$24.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/orchid-cbd-246785/hybrid-pre-rolls/cbd-runtz-pre-roll-5x06g-pre-rolls-2072538/"
+  },
+  {
+    "name": "Heavy Hitter Flower & Lebanese Hash Pre-Roll 1g Hash and ...",
+    "price": "$14.99",
+    "thc": "THC: 32.0 - 38.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/1964-246894/infused-hybrid-pre-rolls/heavy-hitter-flower-lebanese-hash-pre-roll-1g-hash-and-kief-2070988/"
+  },
+  {
+    "name": "Lemon Pepper Live Resin-Infused Pre-Roll 3x0.5g Resin - S...",
+    "price": "$32.99",
+    "thc": "THC: 39.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/purple-hills-246672/infused-sative-pre-rolls/lemon-pepper-live-resin-infused-pre-roll-3x05g-resin-2072039/"
+  },
+  {
+    "name": "Cherry Boat Pre-Roll 2x1g Pre-Rolls",
+    "price": "$9.49",
+    "thc": "THC: 20.0 - 27.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/double-js-246880/sativa-pre-rolls/cherry-boat-pre-roll-2x1g-pre-rolls-2071299/"
+  },
+  {
+    "name": "Assorted Multi Pack Pre-Roll 12x0.3g Pre-Rolls - Sparkle ...",
+    "price": "$27.49",
+    "thc": "THC: 33.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/5-points-246751/hybrid-pre-rolls/assorted-multi-pack-pre-roll-12x03g-pre-rolls-2070986/"
+  },
+  {
+    "name": "Banana OG Pre-Roll 10x0.35g Pre-Rolls",
+    "price": "$20.49",
+    "thc": "THC: 19.0 - 25.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/back-forty-246650/sativa-pre-rolls/banana-og-pre-roll-10x035g-pre-rolls-2070896/"
+  },
+  {
+    "name": "Zsweet Pre-Roll 10x0.3g Pre-Rolls",
+    "price": "$20.99",
+    "thc": "THC: 22.0 - 30.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/5-points-246751/sativa-pre-rolls/zsweet-pre-roll-10x03g-pre-rolls-2070330/"
+  },
+  {
+    "name": "Indica Pre-Roll 2x1g Pre-Rolls",
+    "price": "$9.29",
+    "thc": "THC: 24.0 - 31.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/thumbs-up-246681/indica-pre-rolls/indica-pre-roll-2x1g-pre-rolls-2072740/"
+  },
+  {
+    "name": "Cali Kush Pre-Roll 2x1g Pre-Rolls",
+    "price": "$10.49",
+    "thc": "THC: 26.0 - 32.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/piff-246847/indica-pre-rolls/cali-kush-pre-roll-2x1g-pre-rolls-2072306/"
+  },
+  {
+    "name": "Maui Wowie Pre-Roll 2x1g Pre-Rolls",
+    "price": "$10.49",
+    "thc": "THC: 29.6%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/piff-246847/sativa-pre-rolls/maui-wowie-pre-roll-2x1g-pre-rolls-2149824/"
+  },
+  {
+    "name": "Purple Aya 7x0.5g Pre-Rolls",
+    "price": "$23.49",
+    "thc": "THC: 28.2%",
+    "cbd": "CBD: 1.0%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/1-spliff-246706/indica-pre-rolls/purple-aya-7x05g-pre-rolls-2070884/"
+  },
+  {
+    "name": "Grapey Grape Distillate Infused Pre-Roll 3x0.5g Distillat...",
+    "price": "$22.49",
+    "thc": "THC: 32.0 - 39.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/general-admission-246657/infused-indica-pre-rolls/grapey-grape-distillate-infused-pre-roll-3x05g-distillates-2071186/"
+  },
+  {
+    "name": "Star Cab Cherry Chem Pre-Roll 4x1g Pre-Rolls - Sparkle Ca...",
+    "price": "$18.99",
+    "thc": "THC: 20.0 - 27.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/double-js-246880/indica-pre-rolls/star-cab-cherry-chem-pre-roll-4x1g-pre-rolls-2072121/"
+  },
+  {
+    "name": "Diesel Pocket Puffs Pre-Roll 4x0.5g Pre-Rolls - Sparkle C...",
+    "price": "$9.99",
+    "thc": "THC: 28.9%",
+    "cbd": "CBD: 200.0%",
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/dime-bag-246962/indica-pre-rolls/diesel-pocket-puffs-pre-roll-4x05g-pre-rolls-2070960/"
+  },
+  {
+    "name": "Amherst Sour Diesel Pre-Rolls 10x0.5g Pre-Rolls - Sparkle...",
+    "price": "$28.49",
+    "thc": "THC: 19.0 - 25.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/common-ground-246802/sativa-pre-rolls/amherst-sour-diesel-pre-rolls-10x05g-pre-rolls-2070337/"
+  },
+  {
+    "name": "8 Ball Kush Shatter Double Infused Pre-roll 1x1g Shatter ...",
+    "price": "$15.50",
+    "thc": "THC: 31.0 - 39.0%",
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/shatterizer-246778/infused-indica-pre-rolls/8-ball-kush-shatter-double-infused-pre-roll-1x1g-shatter-2070902/"
+  },
+  {
+    "name": "Red Razzleberry 1:1:1 CBG/CBD/THC 5 Pack Soft Chews - Spa...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-by-grn-336037/gummies/red-razzleberry-111-cbgcbdthc-5-pack-soft-chews-3509438/"
+  },
+  {
+    "name": "Pomegranate 4:1 CBD/THC 5 Pack Soft Chews - Sparkle Canna...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-246774/gummies/pomegranate-41-cbdthc-5-pack-soft-chews-2071118/"
+  },
+  {
+    "name": "Chocolate PB Cup 1 Pack Chocolates",
+    "price": "$5.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/vacay-246849/chocolate/chocolate-pb-cup-1-pack-chocolates-2072280/"
+  },
+  {
+    "name": "Soft Caramel Balanced Chocolate 2 Pack Chocolates - Spark...",
+    "price": "$4.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/chowie-wowie-246811/chocolate/soft-caramel-balanced-chocolate-2-pack-chocolates-2095920/"
+  },
+  {
+    "name": "Hash Rosin Coins - Caramel Coffee Crunch 1 Pack Chocolate...",
+    "price": "$6.49",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/rosin-heads-246810/chocolate/hash-rosin-coins-caramel-coffee-crunch-1-pack-chocolates-3514672/"
+  },
+  {
+    "name": "TenTen Caribbean Chill Live Rosin Gummy 1 Pack Soft Chews...",
+    "price": "$2.89",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/highxotic-288199/gummies/tenten-caribbean-chill-live-rosin-gummy-1-pack-soft-chews-4587145/"
+  },
+  {
+    "name": "Hash Rosin Caramel Peanut Butter Cup - Milk Chocolate 1 P...",
+    "price": "$7.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/rosin-heads-246810/chocolate/hash-rosin-caramel-peanut-butter-cup-milk-chocolate-1-pack-chocolates-3142471/"
+  },
+  {
+    "name": "Sunrise Spritz Popping Pearls 50g Soft Chews - Sparkle Ca...",
+    "price": "$32.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/plush-377012/gummies/sunrise-spritz-popping-pearls-50g-soft-chews-3730177/"
+  },
+  {
+    "name": "Hash Rosin Salted Caramel Stix - Milk Chocolate 1 Pack Ch...",
+    "price": "$8.25",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/rosin-heads-246810/chocolate/hash-rosin-salted-caramel-stix-milk-chocolate-1-pack-chocolates-3872678/"
+  },
+  {
+    "name": "Milk Chocolate Live Rosin Waffle Cones 2 Pack Baked Goods...",
+    "price": "$5.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/a-ha-246824/chocolate/milk-chocolate-live-rosin-waffle-cones-2-pack-baked-goods-4450967/"
+  },
+  {
+    "name": "Huckleberry Basil Relief 18:1 5 Pack Soft Chews - Sparkle...",
+    "price": "$5.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/care-by-design-246908/gummies/huckleberry-basil-relief-181-5-pack-soft-chews-2071279/"
+  },
+  {
+    "name": "S'Mores 1x7.5g Chocolates",
+    "price": "$4.49",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/back-forty-246650/chocolate/smores-1x75g-chocolates-2071016/"
+  },
+  {
+    "name": "Peach Mango CBD 25 Pack Soft Chews",
+    "price": "$21.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-by-grn-336037/gummies/peach-mango-cbd-25-pack-soft-chews-3142875/"
+  },
+  {
+    "name": "THC Dark Chocolate Bar 1x10g Chocolates - Sparkle Cannabi...",
+    "price": "$4.49",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/bhang-246676/chocolate/thc-dark-chocolate-bar-1x10g-chocolates-2071899/"
+  },
+  {
+    "name": "THC Cookies and Cream White Chocolate  Chocolates - Spark...",
+    "price": "$4.49",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/bhang-246676/chocolate/thc-cookies-and-cream-white-chocolate-chocolates-2071245/"
+  },
+  {
+    "name": "Blue Razzleberry 3:1 CBG/THC 5 Pack Soft Chews - Sparkle ...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-246774/gummies/blue-razzleberry-31-cbgthc-5-pack-soft-chews-2072563/"
+  },
+  {
+    "name": "Blackberry Lemonade 1:1:1 CBN/CBD/THC 5 Pack Soft Chews -...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-246774/gummies/blackberry-lemonade-111-cbncbdthc-5-pack-soft-chews-2072331/"
+  },
+  {
+    "name": "Venetian Sparkle Popping Pearls 50g Soft Chews - Sparkle ...",
+    "price": "$32.99",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/plush-377012/gummies/venetian-sparkle-popping-pearls-50g-soft-chews-3730232/"
+  },
+  {
+    "name": "THC+THCV Blue Raspberry Lemonade (Full Tilt) Gummies 5 Pa...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/spinach-feelz-246808/gummies/thcthcv-blue-raspberry-lemonade-full-tilt-gummies-5-pack-soft-chews-3142850/"
+  },
+  {
+    "name": "CBN:THC Strawberry Melon 4:1  5 Pack Soft Chews - Sparkle...",
+    "price": "$4.79",
+    "thc": null,
+    "cbd": null,
+    "in_stock": true,
+    "url": "https://sparklecannabis.ca/menu/burlington/products/pearls-246774/gummies/cbnthc-strawberry-melon-41-5-pack-soft-chews-2070912/"
+  }
+]
