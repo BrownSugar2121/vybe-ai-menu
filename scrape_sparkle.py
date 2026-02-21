@@ -1,4 +1,4 @@
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import json
 import re
@@ -22,7 +22,8 @@ HEADERS = {
 
 
 def get_product_links(category_url):
-    res = requests.get(category_url, headers=HEADERS)
+    scraper = cloudscraper.create_scraper()
+res = scraper.get(category_url, headers=HEADERS)
     soup = BeautifulSoup(res.text, "html.parser")
     links = set()
 
@@ -33,7 +34,8 @@ def get_product_links(category_url):
     return list(links)
 
 def scrape_product(url):
-    res = requests.get(url, headers=HEADERS)
+    scraper = cloudscraper.create_scraper()
+res = scraper.get(url, headers=HEADERS)
     soup = BeautifulSoup(res.text, "html.parser")
     text = soup.get_text()
 
