@@ -10,7 +10,8 @@ CATEGORIES = [
     "dried-flower/",
     "vapes/",
     "pre-rolls/",
-    "edibles/"
+    "edibles/",
+    "beverages/"
 ]
 
 HEADERS = {
